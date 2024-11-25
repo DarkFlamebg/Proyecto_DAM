@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FarmaMedic</string>
+    <string name="inicio">Iniciar Sesion</string>
+    <string name="cancel">Cancelar</string>
+    <string-array name="genero_array">
+        <item>-</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otro</item>
+    </string-array>
+    <string-array name="nacionalidad_array">
+        <item>Selecciona tu nacionalidad</item>
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>Chile</item>
+        <item>Colombia</item>
+        <item>Ecuador</item>
+        <item>España</item>
+        <item>México</item>
+        <item>Perú</item>
+        <item>Uruguay</item>
+        <item>Venezuela</item>
+    </string-array>
+
+
+</resources>
